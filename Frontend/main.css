@@ -1,0 +1,50 @@
+.bg-dark {
+    background: rgb(18, 18, 18);
+    
+}
+
+.bg-moralis{
+    background: #e84803!important;
+}
+.text-moralis{
+    color: #e84803!important;
+}
+.border-moralis{
+    border-color: #e84803!important;
+}
+.btn-moralis{
+    color: #f2f2f2!important;
+    background: #e84803!important;
+}
+.btn-moralis:hover{
+    color: #f2f2f2!important;
+    background: #912703!important;
+}
+
+.btn-outline-moralis{
+    color: #f2c078!important;
+    border: 1px solid #f2c078!important;
+}
+.btn-outline-moralis:hover{
+    color: #f2f2f2!important;
+    background: #912703!important;
+}
+
+.btn-primary{
+    background: #e84803 !important;
+    border-color: #e84803 !important;
+    color: #f2f2f2;
+}
+.btn-primary:hover{
+    background: #082151 !important;
+    border-color: #082151 !important;
+    color: #f2f2f2;
+}
+
+.card {
+    border-radius: .6rem !important;
+}
+
+.border-light {
+    border-color: rgb(61, 61, 61) !important;
+}
